@@ -14,8 +14,8 @@ class SecurityTutorialApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Logger.info("Test case executed..");
-		assertEquals(true, true);
+		//Logger.info("Test case executed..");
+		//assertEquals(true, true);
 	}
 
 }
